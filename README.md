@@ -2,8 +2,6 @@
 
 ## Opa, eu sou o Emmanuel Vitor . . .<br>
 
-Sou uma apaixonado por tecnologia, gastronomia e esportes;
-
 Gosto muito de proporcionar uma experiência incrivel as pessoas e amo me sentir desafiado e ver os resultado do meu esforço 
 e o desenvolvimento front-end estar constantemente nesse estado.
 
