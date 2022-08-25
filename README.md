@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center" >🌟 Bem Vindo(a) ao meu repositorio 🌟</h1>
 
-<!--
-**emmanuelv22/emmanuelv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Opa, eu sou o Emmanuel Vitor . . .<br>
 
-Here are some ideas to get you started:
+Sou uma apaixonado por tecnologia, gastronomia e esportes;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto muito de proporcionar uma experiência incrivel as pessoas e amo me sentir desafiado e ver os resultado do meu esforço 
+e o desenvolvimento front-end estar constantemente nesse estado.
+
+- 🧑🏾‍🎓| Graduando em Análise e Desenvolvimento de Sistemas 3/6 
+- 👨🏿‍💻| Frontend Developer 
+<br>
+
+<div align="center">
+  <a href="https://github.com/EmmanuelVitor-22">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=EmmanuelVitor-22&theme=omni"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVitor-22&layout=compact&theme=omni"/>
+ 
+</div>
+
+<div style="display: inline_block"  align="center"><br>
+  <img align="center" alt="Emmanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Emmanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Emmanuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Emmanuel-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  />
+  <img align="center" alt="Emmanuel-MYSQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"   />
+  <img align="center" alt="Emmanuel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Emmanuel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Emmanuel-flutter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  />
+  <img align="center" alt="Emmanuel-dotNet" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  />
+  <img align="center" alt="Emmanuel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+##
+
+<div align="center"> 
+
+<a href="https://www.linkedin.com/in/emmanuel-vitor-de-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:emmanuelvitor.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  
+</div>
