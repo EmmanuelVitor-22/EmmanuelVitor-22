@@ -1,4 +1,4 @@
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelVitor-22)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <h1 align="center" >🌟 Bem Vindo(a) ao meu repositorio 🌟</h1>
 
 ## Opa, eu sou o Emmanuel Vitor . . .<br>
