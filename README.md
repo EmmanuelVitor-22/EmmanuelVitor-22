@@ -28,6 +28,9 @@ e o desenvolvimento front-end estar constantemente nesse estado.
   <img align="center" alt="Emmanuel-flutter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  />
   <img align="center" alt="Emmanuel-dotNet" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  />
   <img align="center" alt="Emmanuel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 </div>
 
 ##
