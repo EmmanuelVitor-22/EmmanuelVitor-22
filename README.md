@@ -13,7 +13,7 @@ e o desenvolvimento front-end estar constantemente nesse estado.
 <div align="center">
   <a href="https://github.com/EmmanuelVitor-22">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=EmmanuelVitor-22&theme=omni"/>
-  
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVitor-22&layout=compact&theme=omni"/>
 
 </div>
 
