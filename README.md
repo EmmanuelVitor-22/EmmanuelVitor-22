@@ -3,16 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0020C2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Emmanuel+Vitor;I'm+24+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmmanuelVitor-22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Emmanuel Vitorgithub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVitor-22&langs_count=8&layout=compact&hide_border=false&theme=tokyonight" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelVitor-22&langs_count=10&layout=compact&hide_border=false&theme=tokyonight" />
 </div>
-
-
-
-
 
 <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="Emmanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,6 +19,7 @@
   <img align="center" alt="Emmanuel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
+
 <div style="display: inline_block"  align="center"><br>
  
  
